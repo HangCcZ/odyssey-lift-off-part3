@@ -63,8 +63,7 @@ const TrackDetail = ({ track }) => {
               <Button
                 icon={<IconRun width="20px" />}
                 color={colors.pink.base}
-                size="large"
-              >
+                size="large">
                 Start Track
               </Button>
             </StyledLink>
